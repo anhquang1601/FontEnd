@@ -1,0 +1,39 @@
+.Login{
+    height: 700px;
+    width: 100%;
+background-color:lightgrey;
+   
+}
+.Login-item{
+    height: 90%;
+    width: 50%;
+
+    margin-left: 25%;
+   display: flex;
+   flex-direction: row;
+ 
+}
+.Lgin-item-left{
+    width: 50%;
+    height: 85%;
+    background-color:white;
+    margin-top: 10%;
+}
+.Lgin-item-right{
+    width: 50%;
+    height: 85%;
+    background-color:salmon;
+    margin-top: 10%;
+    text-align: center;
+}
+.Lgin-item-left-Text{
+    text-align: center;
+    margin-top: 20%;
+    font-weight: bold;
+}
+.icon{
+    text-align: center;
+}
+.login-item-left-input{
+    margin-top: 10%;
+}

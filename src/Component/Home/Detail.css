@@ -1,0 +1,149 @@
+.containerDetail{
+    width: 100%;
+    height: auto;
+}
+.headerDetail{
+    width: 100%;
+    height: 500px;
+display: flex;
+flex-direction: row;
+}
+.bodyDetail{
+    width: 100%;
+    height: auto;
+    
+}
+.footerDetai{
+    width: 100%;
+    height: 250px;
+ background-color: darkkhaki;
+}
+.bodyDetail1{
+    height: 500px;
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+}
+.bodyDetail11{
+    height: 100%;
+    width: 20%;
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+}
+.bodyDetail12{
+    height: 100%;
+    width: 30%;
+    
+}
+.bodyDetail13{
+    height: 100%;
+    width: 50%;
+  
+}
+.bodyDetail132{
+    
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+}
+.bodyDetail133{
+  
+    display: flex;
+    flex-direction: row;
+}
+.bodyDetail134{
+    display: flex;
+    flex-direction: row;
+}
+.bodyDetail135{
+    display: flex;
+    flex-direction: row;
+}
+.bodyDetail1351{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+}
+.bodyDetail136{
+    display: flex;
+    flex-direction: row;
+}
+.bodyDetail137{
+    display: flex;
+    flex-direction: row;
+}
+.bodyDetail2{
+    height: 200px;
+    width: 100%;
+  
+}
+.Image1{
+    width: 80%;
+    height: 100%;
+
+}
+.Image2{
+    width: 20%;
+    height: 100%;
+   
+    
+    margin-right: 1%;
+}
+.title{
+    text-align:center;
+    height: 50px;
+    width: 100%;
+}
+.Detail-image{
+    height: 100%;
+    width: 50%;
+ 
+}
+.Detail-product{
+    width:50% ;
+    height: 600px;
+  
+}
+.Detail-image-one{
+    height: 400px;
+    width: 80%;
+  
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.Detail-product-one{
+    height:450px;
+    width: 100%;
+
+   display: flex;
+   flex-direction: row;
+}
+.Detail-product-thongtin{
+    height: 50px;
+    width: 100%;
+ 
+}
+.Detail-product-one-left{
+height: 100%;
+width: 30%;
+
+}
+.Detail-product-one-right{
+    height: 100%;
+    width: 70%;
+   
+}
+.table1{
+    height:auto;
+    width: 100%;
+    
+}
+.tb{
+    height: 410px;
+    width: 100%;
+}
+.sq{
+    text-align: center;
+}

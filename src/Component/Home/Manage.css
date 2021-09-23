@@ -1,0 +1,21 @@
+.table{
+    margin-left: 1px;
+}
+.modal{
+    height: 800px;
+}
+.ant-modal-body{
+
+    height: 500px;
+  
+}
+
+.Menu{
+   
+    width: 260px;
+}
+.fo0ter{
+    height: 200px;
+    background-color: black;
+    width: 100%;
+}
